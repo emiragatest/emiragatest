@@ -1,0 +1,512 @@
+YABA,ALH,Albany Airport,-34.9433,117.809
+YABI,ABG,Abingdon Airport,-17.6167,143.167
+YAGD,AUD,Augustus Downs Airport,-18.515,139.878
+YALA,MRP,Marla Airport,-27.3333,133.627
+YALX,AXL,Alexandria Homestead Airport,-19.0602,136.71
+YAMC,AXC,Aramac Airport,-22.9667,145.242
+YAMK,ADO,Andamooka Airport,-30.4383,137.137
+YAMT,AMT,Amata Airport,-26.1083,131.207
+YANG,WLP,West Angelas Airport,-23.1356,118.707
+YAPH,ABH,Alpha Airport,-23.6461,146.584
+YARA,ARY,Ararat Airport,-37.3094,142.989
+YARG,GYL,Argyle Airport,-16.6369,128.451
+YARM,ARM,Armidale Airport,-30.5281,151.617
+YARY,AAB,Arrabury Airport,-26.693,141.048
+YAUR,AUU,Aurukun Airport,-13.3541,141.721
+YAUV,AVG,Auvergne Airport,-15.7,130
+YAYE,AYQ,Ayers Rock Airport,-25.1861,130.976
+YAYR,AYR,Ayr Airport,-19.5844,147.329
+YBAR,BCI,Barcaldine Airport,-23.5653,145.307
+YBAS,ASP,Alice Springs Airport,-23.8067,133.902
+YBAU,BDD,Badu Island Airport,-10.15,142.173
+YBAW,BKP,Barkly Downs Airport,-20.4958,138.475
+YBBN,BNE,Brisbane Airport,-27.3842,153.117
+YBCG,OOL,Gold Coast Airport (Coolangatta Airport),-28.1644,153.505
+YBCK,BKQ,Blackall Airport,-24.4278,145.429
+YBCS,CNS,Cairns Airport,-16.8858,145.755
+YBCV,CTL,Charleville Airport,-26.4133,146.262
+YBDF,BDW,Bedford Downs Airport,-17.2867,127.463
+YBDG,BXG,Bendigo Airport,-36.7394,144.33
+YBDV,BVI,Birdsville Airport,-25.8975,139.348
+YBEB,BXF,Bellburn Airstrip,-17.545,128.305
+YBEO,BTX,Betoota Airport,-25.6417,140.783
+YBGD,OCM,Boolgeeda Airport,-22.54,117.275
+YBGO,BQW,Balgo Hill Airport,-20.1483,127.973
+YBHI,BHQ,Broken Hill Airport,-32.0014,141.472
+YBHM,HTI,Great Barrier Reef Airport,-20.3581,148.952
+YBIE,BEU,Bedourie Airport,-24.3461,139.46
+YBKE,BRK,Bourke Airport,-30.0392,145.952
+YBKT,BUC,Burketown Airport,-17.7486,139.534
+YBLA,BLN,Benalla Airport,-36.5519,146.007
+YBLC,LCN,Balcanoona Airport,-30.535,139.337
+YBLL,BLS,Bollon Airport,-28.0583,147.483
+YBLN,BQB,Busselton Regional Airport,-33.6884,115.402
+YBMA,ISA,Mount Isa Airport,-20.6639,139.489
+YBMK,MKY,Mackay Airport,-21.1717,149.18
+YBNA,BNK,Ballina Byron Gateway Airport,-28.8339,153.562
+YBNS,BSJ,Bairnsdale Airport,-37.8875,147.568
+YBOI,GIC,Boigu Island Airport,-9.23278,142.218
+YBOK,OKY,Oakey Army Aviation Centre,-27.4114,151.735
+YBOU,BQL,Boulia Airport,-22.9133,139.9
+YBPI,BMP,Brampton Island Airport,-20.8033,149.27
+YBPN,PPP,Whitsunday Coast Airport,-20.495,148.552
+YBRK,ROK,Rockhampton Airport,-23.3819,150.475
+YBRL,BOX,Borroloola Airport,-16.0753,136.302
+YBRM,BME,Broome International Airport,-17.9447,122.232
+YBRN,BZD,Balranald Airport,-34.6236,143.578
+YBRW,BWQ,Brewarrina Airport,-29.9739,146.817
+YBRY,BYP,Barimunya Airport,-22.6739,119.166
+YBSU,MCY,Sunshine Coast Airport,-26.6033,153.091
+YBTH,BHS,Bathurst Airport,-33.4094,149.652
+YBTI,BRT,Bathurst Island Airport,-11.7692,130.62
+YBTL,TSV,Townsville Airport,-19.2525,146.765
+YBTR,BLT,Blackwater Airport,-23.6031,148.807
+YBUD,BDB,Bundaberg Airport,-24.9039,152.319
+YBUN,BUY,Bunbury Airport,-33.3783,115.677
+YBWN,ZBO,Bowen Airport,-20.0183,148.215
+YBWP,WEI,Weipa Airport,-12.6786,141.925
+YBWW,WTB,Toowoomba Wellcamp Airport,-27.5583,151.793
+YBWX,BWB,Barrow Island Airport,-20.8644,115.406
+YBYS,BVZ,Beverley Springs Airport,-16.7333,125.433
+YCAG,CGV,Caiguna Airport,-32.265,125.493
+YCAH,CLH,Coolah Airport,-31.7733,149.61
+YCAR,CVQ,Carnarvon Airport,-24.8802,113.672
+YCAS,CSI,Casino Airport,-28.8828,153.067
+YCBA,CAZ,Cobar Airport,-31.5383,145.794
+YCBB,COJ,Coonabarabran Airport,-31.3325,149.267
+YCBP,CPD,Coober Pedy Airport,-29.04,134.721
+YCBR,CRB,Collarenebri Airport,-29.5217,148.582
+YCCA,CCL,Chinchilla Airport,-26.775,150.617
+YCCT,CNC,Coconut Island Airport,-10.05,143.07
+YCCY,CNJ,Cloncurry Airport,-20.6686,140.504
+YCDO,CBX,Condobolin Airport,-33.0644,147.209
+YCDR,CUD,Caloundra Airport,-26.8,153.1
+YCDU,CED,Ceduna Airport,-32.1306,133.71
+YCEE,CVC,Cleve Airport,-33.7097,136.505
+YCFD,CFI,Camfield Airport,-17.0217,131.327
+YCFS,CFS,Coffs Harbour Airport,-30.3206,153.116
+YCGO,LLG,Chillagoe Airport,-17.1428,144.529
+YCHK,CKW,Christmas Creek Mine Airport,-22.3543,119.643
+YCHT,CXT,Charters Towers Airport,-20.0431,146.273
+YCIN,DCN,RAAF Base Curtin,-17.5814,123.828
+YCKI,CKI,Croker Island Airport,-11.165,132.483
+YCKN,CTN,Cooktown Airport,-15.4447,145.184
+YCMT,CMQ,Clermont Airport,-22.7731,147.621
+YCMU,CMA,Cunnamulla Airport,-28.03,145.622
+YCMW,CML,Camooweal Airport,-19.9117,138.125
+YCNF,NIF,Nifty Airport,-21.6717,121.587
+YCNK,CES,Cessnock Airport,-32.7875,151.342
+YCNM,CNB,Coonamble Airport,-30.9833,148.376
+YCOD,ODL,Cordillo Downs Airport,-26.7453,140.638
+YCOE,CUQ,Coen Airport,-13.7611,143.113
+YCOI,CIE,Collie Airport,-33.3667,116.217
+YCOM,OOM,Cooma-Snowy Mountains Airport,-36.3006,148.974
+YCOO,CDA,Cooinda Airport,-12.9033,132.532
+YCOR,CWW,Corowa Airport,-35.9947,146.357
+YCRG,CYG,Corryong Airport,-36.1828,147.888
+YCRY,CDQ,Croydon Airport,-18.225,142.258
+YCSV,KCE,Collinsville Airport,-20.5967,147.86
+YCTM,CMD,Cootamundra Airport,-34.6239,148.028
+YCUA,CUG,Cudal Airport,-33.2783,148.763
+YCUE,CUY,Cue Airport,-27.4467,117.918
+YCWA,CJF,Coondewanna Airport,-22.9667,118.813
+YCWI,CWR,Cowarie Airport,-27.7117,138.328
+YCWL,CCW,Cowell Airport,-33.6667,136.892
+YCWR,CWT,Cowra Airport,-33.8447,148.649
+YCWY,COY,Coolawanyah Station Airport,-21.7946,117.755
+YDAY,DBY,Dalby Airport,-27.1553,151.267
+YDBI,DRN,Dirranbandi Airport,-28.5917,148.217
+YDBR,DNB,Dunbar Airport,-16.05,142.4
+YDBY,DRB,Derby Airport,-17.37,123.661
+YDGA,DGD,Dalgaranga Airport,-27.8303,117.316
+YDIX,DXD,Dixie Airport,-15.1175,143.316
+YDKI,DKI,Dunk Island Airport,-17.9417,146.14
+YDLK,DLK,Dulkaninna Airport,-29.0133,138.481
+YDLQ,DNQ,Deniliquin Airport,-35.5594,144.946
+YDLT,DDN,Delta Downs Airport,-16.9917,141.317
+YDLV,DLV,Delissaville Airport,-12.55,130.685
+YDMG,DMD,Doomadgee Airport,-17.9403,138.822
+YDNI,NLF,Darnley Island Airport,-9.58333,143.767
+YDOR,DRD,Dorunda Airport,-16.5537,141.824
+YDPD,DVP,Davenport Downs Airport,-24.15,141.108
+YDPO,DPO,Devonport Airport,-41.1697,146.43
+YDRA,DOX,Dongara Airport,-29.2981,114.927
+YDRD,DRY,Drysdale River Airport,-15.7136,126.381
+YDRH,DHD,Durham Downs Airport,-27.075,141.9
+YDRI,DRR,Durrie Airport,-25.685,140.228
+YDVR,DKV,Docker River Airport,-24.86,129.07
+YDYS,DYA,Dysart Airport,-22.6222,148.364
+YECH,ECH,Echuca Airport,-36.1572,144.762
+YECL,EUC,Eucla Airport,-31.7,128.883
+YEDA,ETD,Etadunna Airport,-28.7408,138.589
+YEEB,ENB,Eneabba Airport,-29.8325,115.246
+YELD,ELC,Elcho Island Airport,-12.0194,135.571
+YEML,EMD,Emerald Airport,-23.5675,148.179
+YERN,ERB,Pukatja Airport (Ernabella Airport),-26.2633,132.182
+YESE,ERQ,Elrose Airport,-20.9764,141.007
+YESP,EPR,Esperance Airport,-33.6844,121.823
+YEVD,EVH,Evans Head Memorial Aerodrome,-29.0933,153.42
+YEXM,EXM,Exmouth Airport,-22.0333,114.1
+YFBS,FRB,Forbes Airport,-33.3636,147.935
+YFDF,KFE,Fortescue Dave Forrest Airport,-22.2908,119.437
+YFIL,FLY,Finley Airport,-35.6667,145.55
+YFLI,FLS,Flinders Island Airport,-40.0917,147.993
+YFLO,FVL,Flora Valley Airport,-18.2833,128.417
+YFNE,FIK,Finke Airport,-25.5947,134.583
+YFRT,FOS,Forrest Airport,-30.8381,128.115
+YFRV,FVR,Forrest River Airport,-15.1647,127.84
+YFST,FOT,Forster (Wallis Island) Airport,-32.2042,152.479
+YFTZ,FIZ,Fitzroy Crossing Airport,-18.1819,125.559
+YGAM,GBP,Gamboola Airport,-16.55,143.667
+YGAY,GAH,Gayndah Airport,-25.6144,151.619
+YGBI,GBL,South Goulburn Island Airport,-11.65,133.382
+YGDH,GUH,Gunnedah Airport,-30.9611,150.251
+YGDI,GOO,Goondiwindi Airport,-28.5214,150.32
+YGDN,GDD,Gordon Downs Airport,-18.6781,128.592
+YGDS,GGD,Gregory Downs Airport,-18.625,139.233
+YGEL,GET,Geraldton Airport,-28.7961,114.707
+YGFN,GFN,Clarence Valley Regional Airport,-29.7594,153.03
+YGIA,GBW,Ginbata Airport,-22.5812,120.036
+YGIB,GBV,Gibb River Airport,-16.4233,126.445
+YGKL,GKL,Great Keppel Island Airport,-23.1833,150.942
+YGLA,GLT,Gladstone Airport,-23.8697,151.223
+YGLB,GUL,Goulburn Airport,-34.8103,149.726
+YGLE,GLG,Glengyle Airport,-24.8083,139.6
+YGLG,GEX,Geelong Airport,-38.225,144.333
+YGLI,GLI,Glen Innes Airport,-29.675,151.689
+YGLO,GLM,Glenormiston Airport,-22.8883,138.825
+YGNV,GVP,Greenvale Airport,-18.9966,145.014
+YGON,GPD,Mount Gordon Airport,-19.7726,139.404
+YGPT,GPN,Garden Point Airport,-11.4025,130.422
+YGSC,GSC,Gascoyne Junction Airport,-25.0546,115.203
+YGTE,GTE,Groote Eylandt Airport,-13.975,136.46
+YGTH,GFF,Griffith Airport,-34.2508,146.067
+YGTN,GTT,Georgetown Airport,-18.305,143.53
+YGTO,GEE,George Town Aerodrome,-41.08,146.84
+YGYM,GYP,Gympie Airport,-26.2828,152.702
+YHAW,HWK,Wilpena Pound Airport,-31.8559,138.468
+YHAY,HXX,Hay Airport,-34.5314,144.83
+YHBA,HVB,Hervey Bay Airport,-25.3189,152.88
+YHBR,HUB,Humbert River Airport,-16.4897,130.63
+YHBY,HRY,Henbury Airport,-24.584,133.236
+YHDY,HIP,Headingly Airport,-21.3333,138.283
+YHHY,HIG,Highbury Airport,-16.4244,143.146
+YHID,HID,Horn Island Airport,-10.5864,142.29
+YHIL,HLL,Hillside Airport,-21.7244,119.392
+YHLC,HCQ,Halls Creek Airport,-18.2339,127.67
+YHMB,HMG,Hermannsburg Airport,-23.93,132.805
+YHML,HLT,Hamilton Airport,-37.6489,142.065
+YHOO,HOK,Hooker Creek Airport,-18.3367,130.638
+YHOT,MHU,Mount Hotham Airport,-37.0475,147.334
+YHPN,HTU,Hopetoun Airport,-35.7153,142.36
+YHSM,HSM,Horsham Airport,-36.6697,142.173
+YHTL,HAT,Heathlands Airport,-11.7369,142.577
+YHUG,HGD,Hughenden Airport,-20.815,144.225
+YIDK,IDK,Indulkana Airport,-26.9667,133.325
+YIFL,IFL,Innisfail Airport,-17.5594,146.012
+YIFY,IFF,Iffley Airport,-18.9,141.217
+YIGM,IGH,Ingham Airport,-18.6606,146.152
+YIKM,IKP,Inkerman Airport,-16.275,141.442
+YINJ,INJ,Injune Airport,-25.851,148.55
+YINN,INM,Innamincka Airport,-27.7,140.733
+YINW,IVW,Inverway Airport,-17.8411,129.643
+YISF,ISI,Isisford Airport,-24.2583,144.425
+YIVL,IVR,Inverell Airport,-29.8883,151.144
+YJAB,JAB,Jabiru Airport,-12.6583,132.893
+YJDA,JUN,Jundah Airport,-24.8417,143.058
+YJLC,JCK,Julia Creek Airport,-20.6683,141.723
+YJNB,JUR,Jurien Bay Airport,-30.3016,115.056
+YKAL,UBU,Kalumburu Airport,-14.2883,126.632
+YKAR,KQR,Karara Airport,-29.2167,116.687
+YKBL,KDB,Kambalda Airport,-31.1907,121.598
+YKBR,KAX,Kalbarri Airport,-27.6928,114.259
+YKBY,KBY,Streaky Bay Airport,-32.8358,134.293
+YKCA,KBJ,Kings Canyon Airport,-24.26,131.49
+YKCS,KCS,Kings Creek Station Airport,-24.4233,131.835
+YKER,KRA,Kerang Airport,-35.7514,143.939
+YKII,KNS,King Island Airport,-39.8775,143.878
+YKKG,KFG,Kalkgurung Airport,-17.4319,130.808
+YKLA,KOH,Koolatah Airport,-15.8886,142.439
+YKLB,KKP,Koolburra Airport,-15.3189,143.955
+YKMB,KRB,Karumba Airport,-17.4567,140.83
+YKML,KML,Kamileroi Airport,-19.375,140.057
+YKMP,KPS,Kempsey Airport,-31.0744,152.77
+YKNG,KNI,Katanning Airport,-33.7167,117.633
+YKOW,KWM,Kowanyama Airport,-15.4856,141.751
+YKPR,KPP,Kalpowar Airport,-14.89,144.22
+YKPT,PKT,Port Keats Airfield,-14.25,129.529
+YKRY,KGY,Kingaroy Airport,-26.5808,151.841
+YKSC,KGC,Kingscote Airport,-35.7139,137.521
+YKUB,KUG,Kubin Airport,-10.225,142.218
+YLAH,LWH,Lawn Hill Airport,-18.5683,138.635
+YLEC,LGH,Leigh Creek Airport,-30.5983,138.426
+YLEO,LNO,Leonora Airport,-28.8781,121.315
+YLEV,LEL,Lake Evella Airport,-12.4989,135.806
+YLFD,LFP,Lakefield Airport,-14.9207,144.203
+YLHI,LDH,Lord Howe Island Airport,-31.5383,159.077
+YLHR,IRG,Lockhart River Airport,-12.7869,143.305
+YLHS,LTP,Lyndhurst Airport,-19.1958,144.371
+YLIN,LDC,Lindeman Island Airport,-20.4536,149.04
+YLIS,LSY,Lismore Airport,-28.8303,153.26
+YLKN,LNH,Lake Nash Airport,-20.9807,137.918
+YLLE,BBL,Ballera Airport,-27.4056,141.809
+YLMQ,BEO,Lake Macquarie Airport (Belmont Airport),-33.0667,151.648
+YLND,LKD,Lakeland Downs Airport,-15.8333,144.85
+YLOK,LOC,Lock Airport,-33.5442,135.693
+YLOR,LOA,Lorraine Airport,-18.9933,139.907
+YLOV,LTV,Lotus Vale Station Airport,-17.0483,141.376
+YLRA,LUU,Laura Airport,-15.55,144.45
+YLRD,LHG,Lightning Ridge Airport,-29.4567,147.984
+YLRE,LRE,Longreach Airport,-23.4342,144.28
+YLRS,LUT,New Laura Airport,-15.1833,144.367
+YLST,LER,Leinster Airport,-27.8433,120.703
+YLTN,LVO,Laverton Airport,-28.6136,122.424
+YLTV,TGN,Latrobe Regional Airport,-38.2072,146.47
+YLZI,LZR,Lizard Island Airport,-14.6733,145.455
+YMAA,UBB,Mabuiag Island Airport,-9.95,142.183
+YMAE,MYI,Murray Island Airport,-9.91667,144.055
+YMAV,AVV,Avalon Airport,-38.0394,144.469
+YMAY,ABX,Albury Airport,-36.0678,146.958
+YMBA,MRG,Mareeba Airfield,-17.0692,145.419
+YMBL,MBB,Marble Bar Airport,-21.1633,119.833
+YMCO,XMC,Mallacoota Airport,-37.5983,149.72
+YMCR,MFP,Manners Creek Airport,-22.1,137.983
+YMCT,MLR,Millicent Airport,-37.5836,140.366
+YMDG,DGE,Mudgee Airport,-32.5625,149.611
+YMDI,MQA,Mandora Station Airport,-19.7383,120.838
+YMDS,MNW,MacDonald Downs Airport,-22.444,135.199
+YMEK,MKR,Meekatharra Airport,-26.6117,118.548
+YMEN,MEB,Essendon Airport,-37.7281,144.902
+YMER,MIM,Merimbula Airport,-36.9086,149.901
+YMEU,MLV,Merluna Airport,-13.0649,142.454
+YMGB,MGT,Milingimbi Airport,-12.0944,134.894
+YMGD,MNG,Maningrida Airport,-12.0561,134.234
+YMGN,GSN,Mount Gunson Airport,-31.4597,137.174
+YMGR,MGV,Margaret River Station Airport,-18.6217,126.883
+YMGT,MQZ,Margaret River Airport,-33.9306,115.1
+YMGV,MVU,Musgrave Airport,-14.7757,143.505
+YMHB,HBA,Hobart International Airport,-42.8361,147.51
+YMHO,MHO,Mount House Airport,-17.055,125.71
+YMHU,MCV,McArthur River Mine Airport,-16.4425,136.084
+YMIA,MQL,Mildura Airport,-34.2292,142.086
+YMIN,XML,Minlaton Airport,-34.75,137.533
+YMIP,MIH,Mitchell Plateau Airport,-14.7914,125.824
+YMIR,MWY,Miranda Downs Airport,-17.3289,141.886
+YMIT,MTQ,Mitchell Airport,-26.4833,147.937
+YMJM,MJP,Manjimup Airport,-34.2653,116.14
+YMLS,WLE,Miles Airport,-26.8083,150.175
+YMLT,LST,Launceston Airport,-41.5453,147.214
+YMMB,MBW,Moorabbin Airport,-37.9758,145.102
+YMMI,WUI,Murrin Murrin Airport,-28.7053,121.891
+YMML,MEL,Melbourne Airport,-37.6733,144.843
+YMMU,MMM,Middlemount Airport,-22.8025,148.705
+YMND,MTL,Maitland Airport,-32.7013,151.493
+YMNE,WME,Mount Keith Airport,-27.2864,120.555
+YMNK,ONR,Monkira Airport,-24.8167,140.533
+YMNS,MSF,Mount Swan Airport,-22.6247,135.035
+YMNY,OXY,Morney Airport,-25.3583,141.433
+YMOG,MMG,Mount Magnet Airport,-28.1161,117.842
+YMOO,OOR,Mooraberree Airport,-25.25,140.983
+YMOR,MRZ,Moree Airport,-29.4989,149.845
+YMOT,MET,Moreton Airport,-12.4442,142.638
+YMPA,MIN,Minnipa Airport,-32.8433,135.145
+YMQA,MQE,Marqua Airport,-22.8058,137.251
+YMRB,MOV,Moranbah Airport,-22.0578,148.077
+YMRE,RRE,Marree Airport,-29.6633,138.065
+YMRW,MWB,Morawa Airport,-29.2017,116.022
+YMRY,MYA,Moruya Airport,-35.8978,150.144
+YMSF,MTD,Mount Sandford Station Airport,-16.9783,130.555
+YMTB,UTB,Muttaburra Airport,-22.5833,144.533
+YMTG,MGB,Mount Gambier Airport,-37.7456,140.785
+YMTI,ONG,Mornington Island Airport,-16.6625,139.178
+YMTO,MNQ,Monto Airport,-24.8858,151.1
+YMUC,MUQ,Muccan Station Airport,-20.6589,120.067
+YMUG,MNE,Mungeranie Airport,-28.0092,138.657
+YMUK,MVK,Mulka Airport,-28.3478,138.65
+YMUP,MUP,Mulga Park Airport,-25.86,131.65
+YMVG,MKV,Mount Cavenagh Airport,-25.9667,133.2
+YMWA,MXU,Mullewa Airport,-28.475,115.517
+YMWT,MWT,Moolawatana Airport,-29.9069,139.765
+YMWX,MXD,Marion Downs Airport,-23.3637,139.65
+YMYB,MBH,Maryborough Airport,-25.5133,152.715
+YMYR,MYO,Myroodah Airport,-18.1247,124.272
+YMYT,RTY,Merty Merty Airport,-28.5833,140.317
+YNAP,NMR,Nappa Merrie Airport,-27.5583,141.133
+YNAR,NRA,Narrandera Airport,-34.7022,146.512
+YNBR,NAA,Narrabri Airport,-30.3192,149.827
+YNGU,RPM,Ngukurr Airport,-14.7228,134.747
+YNHS,NBH,Nambucca Heads Airport,-30.65,153
+YNPE,ABM,Northern Peninsula Airport,-10.9508,142.459
+YNRC,NAC,Naracoorte Airport,-36.9853,140.725
+YNRG,NRG,Narrogin Airport,-32.93,117.08
+YNRV,RVT,Ravensthorpe Airport,-33.7972,120.208
+YNSH,NSV,Noosa Airport,-26.4233,153.063
+YNSM,NSM,Norseman Airport,-32.21,121.755
+YNTN,NTN,Normanton Airport,-17.6841,141.07
+YNUB,NUR,Nullabor Motel Airport,-31.4417,130.902
+YNUL,NLL,Nullagine Airport,-21.9133,120.198
+YNUM,NUB,Numbulwar Airport,-14.2717,135.717
+YNWN,ZNE,Newman Airport,-23.4178,119.803
+YNYN,NYN,Nyngan Airport,-31.5511,147.203
+YOEN,OPI,Oenpelli Airport,-12.325,133.006
+YOLA,XCO,Colac Airport,-38.2867,143.68
+YOLD,OLP,Olympic Dam Airport,-30.485,136.877
+YOLW,ONS,Onslow Airport,-21.6683,115.113
+YOOD,ODD,Oodnadatta Airport,-27.5617,135.447
+YOOM,MOO,Moomba Airport,-28.0994,140.197
+YORB,RBS,Orbost Airport,-37.79,148.61
+YORC,OKB,Orchid Beach Airport,-24.9594,153.315
+YORG,OAG,Orange Airport,-33.3817,149.133
+YORV,ODR,Ord River Airport,-17.3408,128.912
+YOSB,OSO,Osborne Mine Airport,-22.0817,140.555
+YOUY,OYN,Ouyen Airport,-35.089,142.354
+YPAD,ADL,Adelaide Airport,-34.945,138.531
+YPAG,PUG,Port Augusta Airport,-32.5069,137.717
+YPAM,PMK,Palm Island Airport,-18.7553,146.581
+YPBO,PBO,Paraburdoo Airport,-23.1711,117.745
+YPCC,CCK,Cocos (Keeling) Islands Airport,-12.1886,96.8306
+YPDI,PDE,Pandie Pandie Airport,-26.1167,139.4
+YPDN,DRW,Darwin International Airport,-12.4147,130.877
+YPDO,PRD,Pardoo Airport,-20.1175,119.59
+YPGV,GOV,Gove Airport,-12.2694,136.818
+YPIR,PPI,Port Pirie Airport,-33.2389,137.995
+YPJT,JAD,Jandakot Airport,-32.0975,115.881
+YPKA,KTA,Karratha Airport,-20.7122,116.773
+YPKG,KGI,Kalgoorlie-Boulder Airport,-30.7894,121.462
+YPKS,PKE,Parkes Airport,-33.1314,148.239
+YPKU,KNX,East Kimberley Regional Airport,-15.7781,128.708
+YPLC,PLO,Port Lincoln Airport,-34.6053,135.88
+YPLM,LEA,RAAF Learmonth (Learmonth Airport),-22.2356,114.089
+YPMH,PXH,Prominent Hill Airport,-29.716,135.524
+YPMP,EDR,Edward River Airport,-14.8965,141.609
+YPMQ,PQQ,Port Macquarie Airport,-31.4358,152.863
+YPOD,PTJ,Portland Airport,-38.3181,141.471
+YPOK,MBF,Porepunkah Airfield,-36.7187,146.89
+YPPD,PHE,Port Hedland International Airport,-20.3778,118.626
+YPPH,PER,Perth Airport,-31.9403,115.967
+YPSH,PEA,Penneshaw Airport,-35.7558,137.963
+YPTN,KTR,RAAF Base Tindal,-14.5211,132.378
+YPWR,UMR,RAAF Woomera Airfield,-31.1442,136.817
+YPXM,XCH,Christmas Island Airport,-10.4506,105.69
+YQDI,UIR,Quirindi Airport,-31.4906,150.514
+YQLP,ULP,Quilpie Airport,-26.6122,144.253
+YQNS,UEE,Queenstown Airport,-42.075,145.532
+YREN,RMK,Renmark Airport,-34.1964,140.674
+YRKD,RDA,Rockhampton Downs Airport,-18.9533,135.201
+YRMD,RCM,Richmond Airport,-20.7019,143.115
+YRNG,RAM,Ramingining Airport,-12.3564,134.898
+YROB,ROH,Robinhood Airport,-18.845,143.71
+YROE,RBU,Roebourne Airport,-20.7617,117.157
+YROI,RBC,Robinvale Airport,-34.65,142.783
+YROM,RMA,Roma Airport,-26.545,148.775
+YRRB,RPB,Roper Bar Airport,-14.7348,134.525
+YRSB,RSB,Roseberth Airport,-25.8333,139.65
+YRTI,RTS,Rottnest Island Airport,-32.0067,115.54
+YRTP,RTP,Rutland Plains Airport,-15.6433,141.843
+YRYH,RHL,Roy Hill Station Airport,-22.6258,119.959
+YSAN,NDS,Sandstone Airport,-27.98,119.297
+YSBK,BWU,Bankstown Airport,-33.9244,150.988
+YSCB,CBR,Canberra Airport,-35.3069,149.195
+YSCN,CDU,Camden Airport,-34.0403,150.687
+YSCO,NSO,Scone Airport,-32.0372,150.832
+YSCR,SQC,Southern Cross Airport,-31.24,119.36
+YSDU,DBO,Dubbo City Regional Airport,-32.2167,148.575
+YSEN,,Serpentine Airfield,-32.394167,115.872222
+YSGE,SGO,St George Airport,-28.0497,148.595
+YSGT,SIX,Singleton Airport,-32.6008,151.193
+YSGW,ZGL,South Galway Airport,-25.6833,142.108
+YSHG,SGP,Shay Gap Airport,-20.4247,120.141
+YSHK,MJK,Shark Bay Airport,-25.8939,113.577
+YSHR,WSY,Whitsunday Airport,-20.2761,148.755
+YSHT,SHT,Shepparton Airport,-36.4289,145.393
+YSII,SBR,Saibai Island Airport,-9.37833,142.625
+YSMB,GOS,Somersby Airfield,-33.3678,151.3
+YSMI,SIO,Smithton Airport,-40.835,145.084
+YSMP,SHU,Smith Point Airport,-11.15,132.15
+YSMR,STH,Strathmore Airport,-17.85,142.567
+YSNB,SNB,Snake Bay Airport,-11.4228,130.654
+YSNF,NLK,Norfolk Island Airport,-29.0416,167.939
+YSNW,NOA,NAS Nowra,-34.9489,150.537
+YSOL,SLJ,Solomon Airport,-22.2554,117.763
+YSPE,SNH,Stanthorpe Airport,-28.6203,151.991
+YSPK,SCG,Spring Creek Airport,-18.6333,144.567
+YSPT,SHQ,Southport Airport,-27.9221,153.372
+YSPV,KSV,Springvale Airport,-23.55,140.7
+YSRI,XRH,RAAF Base Richmond,-33.6006,150.781
+YSRN,SRN,Strahan Airport,-42.155,145.292
+YSSY,SYD,Sydney Airport (Kingsford Smith Airport),-33.9461,151.177
+YSTH,HLS,St Helens Airport,-41.3367,148.282
+YSTI,STF,Stephens Island Airport,-9.51,143.55
+YSTW,TMW,Tamworth Regional Airport,-31.0839,150.847
+YSWG,WGA,Wagga Wagga Airport,-35.1653,147.466
+YSWH,SWH,Swan Hill Airport,-35.3758,143.533
+YSWL,SWC,Stawell Airport,-37.0717,142.741
+YTAA,XTR,Tara Airport,-27.1567,150.477
+YTAB,TBL,Tableland Homestead Airport,-17.2833,126.9
+YTAM,XTO,Taroom Airport,-25.8017,149.9
+YTBR,TBK,Timber Creek Airport,-15.62,130.445
+YTDR,TDR,Theodore Airport,-24.9933,150.093
+YTEE,TQP,Trepell Airport,-21.835,140.888
+YTEF,TEF,Telfer Airport,-21.715,122.229
+YTEM,TEM,Temora Airport,-34.4214,147.512
+YTGA,TAN,Tangalooma Airport,-27.13,153.363
+YTGM,XTG,Thargomindah Airport,-27.9864,143.811
+YTGT,GTS,The Granites Airport,-26.9483,133.607
+YTHD,TDN,Theda Station Airport,-14.7881,126.496
+YTHY,TYG,Thylungra Airport,-26.0833,143.467
+YTIB,TYB,Tibooburra Airport,-29.4511,142.058
+YTKY,TKY,Turkey Creek Airport,-17.0408,128.206
+YTMO,PHQ,The Monument Airport,-21.8111,139.924
+YTMP,TPR,Tom Price Airport,-22.746,117.869
+YTMU,TUM,Tumut Airport,-35.2628,148.241
+YTMY,TYP,Tobermorey Airport,-22.2558,137.953
+YTNG,THG,Thangool Airport,-24.4939,150.576
+YTNK,TCA,Tennant Creek Airport,-19.6344,134.183
+YTOC,TCW,Tocumwal Airport,-35.8117,145.608
+YTRE,TRO,Taree Airport,-31.8886,152.514
+YTST,TTX,Truscott-Mungalalu Airport,-14.0897,126.381
+YTWB,TWB,Toowoomba City Aerodrome,-27.5428,151.916
+YUDA,UDA,Undara Airport,-18.2,144.6
+YUNY,CZY,Cluny Airport,-24.5167,139.617
+YUSL,USL,Useless Loop Airport,-26.1667,113.4
+YVRD,VCD,Victoria River Downs Airport,-16.4021,131.005
+YVRS,VNR,Vanrook Airport,-16.9633,141.95
+YWAL,WLA,Wallal Airport,-19.7736,120.649
+YWAV,WAV,Wave Hill Airport,-17.3933,131.118
+YWBL,WMB,Warrnambool Airport,-38.2953,142.447
+YWBS,SYU,Warraber Island Airport,-10.2083,142.825
+YWCA,WIO,Wilcannia Airport,-31.5264,143.375
+YWCH,WLC,Walcha Airport,-31,151.567
+YWCK,WAZ,Warwick Airport,-28.1494,151.943
+YWDG,WRN,Windarling Airport,-30.0317,119.39
+YWDH,WNR,Windorah Airport,-25.4131,142.667
+YWDL,WON,Wondoola Airport,-18.575,140.892
+YWGT,WGT,Wangaratta Airport,-36.4158,146.307
+YWHA,WYA,Whyalla Airport,-33.0589,137.514
+YWIT,WIT,Wittenoom Airport,-22.2183,118.348
+YWKB,WKB,Warracknabeal Airport,-36.3211,142.419
+YWLG,WGE,Walgett Airport,-30.0328,148.126
+YWLM,NTL,Newcastle Airport / RAAF Base Williamtown,-32.795,151.834
+YWLU,WUN,Wiluna Airport,-26.6292,120.221
+YWMP,WPK,Wrotham Park Airport,-16.6583,144.002
+YWND,WDI,Wondai Airport,-26.2833,151.858
+YWOL,WOL,Illawarra Regional Airport,-34.5611,150.789
+YWOR,WLL,Wollogorang Airport,-17.2199,137.935
+YWSL,SXE,West Sale Airport,-38.0908,146.965
+YWTL,WLO,Waterloo Airport,-16.63,129.32
+YWTN,WIN,Winton Airport,-22.3636,143.086
+YWUD,WUD,Wudinna Airport,-33.0433,135.447
+YWWA,WEW,Wee Waa Airport,-30.2583,149.408
+YWWG,WRW,Warrawagine Airport,-20.8442,120.702
+YWWI,WWI,Woodie Woodie Airport,-21.6628,121.234
+YWWL,WWY,West Wyalong Airport,-33.9372,147.191
+YWYM,WYN,Wyndham Airport,-15.5114,128.153
+YWYY,BWT,Burnie Airport,-40.9989,145.731
+YYAL,YLG,Yalgoo Airport,-28.3553,116.684
+YYKI,OKR,Yorke Island Airport,-9.7528,143.406
+YYLR,KYF,Yeelirrie Airport,-27.2771,120.096
+YYMI,XMY,Yam Island Airport,-9.90111,142.776
+YYND,YUE,Yuendumu Airport,-22.2542,131.782
+YYNG,NGA,Young Airport,-34.2556,148.248
+YYOR,ORR,Yorketown Airport,-35,137.617
+YYTA,KYI,Yalata Airport,-31.4706,131.825
